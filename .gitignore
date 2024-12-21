@@ -1,3 +1,7 @@
+### Git ###
+# Don't ignore the .gitignore file itself
+!.gitignore
+
 ### IntelliJ IDEA ###
 .idea/
 *.iws
